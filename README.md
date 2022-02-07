@@ -1,5 +1,9 @@
-Hi there, I'm Igor Cojocaru
+## Hi there, I'm Igor Cojocaru :wave:
 
+#### I live in Barcelona :sun_with_face:
+#### Working as a front-end developer since 2018. `React.js` fan :muscle:
+
+[Linkedin](https://www.linkedin.com/in/igor-cojocaru/)
 
 
 
