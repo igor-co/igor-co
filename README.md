@@ -4,7 +4,7 @@
    <h2>Hi! I'm Igór!</h2>
 </div>
 
-<h4 align="center"><img src="img/react.svg" width="20" height="20" alt="linkedin-logo"> React.js Front-end developer Based in  Barcelona  :sun_with_face: </h4>
+<h4 align="center"><img src="img/react.svg" width="20" height="20" alt="linkedin-logo"> React.js Front-end developer based in  Barcelona  :sun_with_face: </h4>
 
 
 
