@@ -1,4 +1,3 @@
-
 <h2>Hi! I'm Igór!</h2>
 
 <h4>About me:</h4>
@@ -7,7 +6,8 @@
 <p>Working as a front-end developer since 2018. </p>
  React.js fan :muscle:
 
+<div align="center">
+    <img src="svg.svg" width="400" height="400" alt="css-in-readme">
+</div>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igor-co&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-
